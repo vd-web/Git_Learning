@@ -16,6 +16,7 @@ git add <file-name>
 git add .
 
 ##file checkout for last commet staged area
+
 git checkout <file name>
 git checkout .
 
@@ -27,6 +28,7 @@ git commit -m " your first commit"
 
 
 ##push to cloud repo
+
 git push
 
 
